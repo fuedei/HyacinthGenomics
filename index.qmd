@@ -1,0 +1,34 @@
+![](images/Water_Hyacinth_Genomics.png){fig-align="center" width="40%"}
+
+# International Water Hyacinth Genomics Initiative
+
+Invasive aquatic plants represent significant ecological, economic, and management challenges worldwide. They spread quickly, adapt to different environments, and can withstand a wide range of conditions. This makes it difficult to control them. It also puts native plants and animals, water resources, fisheries, and infrastructure at risk. Despite their global importance, genomic resources for many invasive aquatic plant species are scarce or fragmented. This limits our understanding of their evolutionary history, dispersal pathways, adaptive potential, and responses to management actions.
+
+Population genetics infer bottlenecks, cloning, mixing, connectivity, and dispersal routes. Advanced sequencing genomics and the evaluation of numerous genetic markers provide useful evidence for the management of invasive water hyacinth by offering resolution for demography, structure, and selection detection. Recent advances in next-generation sequencing (NGS), particularly whole-genome sequencing (WGS), have made it possible to generate high-resolution genomic data at a lower cost. These technologies offer unparalleled opportunities to study invasion dynamics, population structure, gene flow, hybridization, and adaptive evolution on a global scale.
+
+This **initiative aims to establish an open, international, and coordinated effort to generate, curate, and share water hyacinth (*Pontederia crassipes*) genomic data**. This effort will create a comprehensive and lasting genomic resource for the scientific and management communities.
+
+## Objectives
+
+-   **Generate a global genomic database** of *Pontederia crassipes* (Water Hyacinth) using whole-genome sequencing and complementary genomic approaches.
+-   **Characterize genetic diversity and population structure** of *P. crassipes* across the native and invaded ranges.
+-   **Reconstruct invasion routes and dispersal pathways** of *P. crassipes* at regional and global scales.
+-   **Identify genomic regions associated with adaptation** of *P. crassipes*, invasiveness, and environmental tolerance.
+-   **Promote international collaboration and data sharing** among *P. crassipes* researchers, institutions, and management agencies.
+
+## Scope of the Initiative
+
+The initiative is an **open and collaborative framework designed to welcome contributions from researchers worldwide**. Participation may include:
+
+
+-   Providing plant tissue or DNA samples from well-documented populations.
+-   Contributing raw whole-genome sequencing data or assembled genomes.
+-   Sharing associated metadata, including geographic location, habitat type, sampling date, and ecological context.
+-   Participating in joint analyses, publications, and related activities.
+
+
+::: {.full-width}
+![](images/camalote_campo_acf_2.png){width=100%}
+:::
+
+

@@ -1,0 +1,14 @@
+---
+title: "Contact"
+---
+
+If you’d like to get in touch, feel free to reach us through any of the channels below.
+
+------------------------------------------------------------------------
+
+### 📧 Email
+
+[mail\@example.com](mailto:mail@example.com)
+
+------------------------------------------------------------------------
+

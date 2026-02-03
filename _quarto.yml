@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "IWHGI"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Get involved"
+        href: participate.qmd
+      - text: "About the initiative"
+        href: about.qmd
+      - text: "Collaborators"
+        href: collaborators.qmd
+      - text: "Contact"
+        href: contact.qmd
+  search: true
+  page-footer:
+    center: © 2026 · Made with [![](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg){alt="R Project" width=18px}](https://www.r-project.org/) and
+      [![](https://quarto.org/quarto.png){alt="Quarto" width=65px}](https://quarto.org/)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
+  
+  

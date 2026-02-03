@@ -1,0 +1,22 @@
+International Water Hyacinth Genomics Initiative ...
+
+## Collaboration Model
+
+This initiative is designed to be a distributed and inclusive consortium.
+
+-   An open call for participation to research groups worldwide.
+-   Clear guidelines on data ownership, authorship, and acknowledgment.
+-   Opportunities for co-authored publications and thematic working groups.
+-   Regular communication through virtual meetings, workshops, and shared online platforms.
+
+Participation levels are flexible, enabling contributors to engage based on their resources and interests.
+
+Beyond initial data generation, the initiative aims to:
+
+-   Serve as a “living genomic resource”, continuously expanded with new samples and data.
+-   Integrate genomic information with ecological, climatic, and distributional data.
+-   Support training and capacity building, particularly in regions heavily affected by the invasion.
+-   Provide a model framework applicable to other invasive species.
+
+
+![](images/camalote_flor_acf.jpg){fig-align="center" width="30%"}
