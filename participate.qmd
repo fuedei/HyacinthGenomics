@@ -1,27 +1,40 @@
-# Methodological Framework
 
-## Sampling Strategy
+# Participation and Data Contribution
 
-A coordinated sampling strategy will aim to cover:
+To achieve broad geographic and ecological coverage, this project invites researchers to contribute plant tissue samples, extracted DNA, and/or whole-genome sequencing data. The project is designed to be flexible, allowing contributors to participate according to their available resources while adhering to shared standards that ensure data comparability and reproducibility.
 
--   The native range of the species.
--   Multiple invaded regions across continents.
--   Diverse environmental and ecological conditions (multiple habitats).
+Contributors may participate by:
 
-To ensure data comparability, contributors will be encouraged to follow standardized sampling and preservation protocols. They will also be provided with detailed guidelines for tissue collection, DNA extraction, and storage.
+- sending plant tissues preserved in silica gel,
+- sending extracted genomic DNA, and/or
+- sharing whole-genome sequencing data generated independently.
 
-## Genomic Data Generation
+---
 
-The core genomic approach will be whole-genome sequencing (WGS) using either short- or long-read technologies. Depending on the available resources, the following sequencing strategies may be employed:
+# How to Participate: Step-by-Step Guide
 
--   Resequencing of multiple individuals across populations.
--   Hybrid assemblies combining short and long reads.
+## Initial contact
+Contact the coordinating team to express interest and indicate the type of contribution (plant tissue, DNA, and/or genomic data).
 
-## Data Management and Curation
+## Sampling and preservation
+- Collect young, healthy leaf tissue when possible.
+- Preserve tissue immediately in silica gel until fully desiccated.
+- Clearly label each sample with a unique identifier.
 
-All genomic data will be: - Stored in a centralized database with standardized formats.
+## Metadata recording
+Record standardized metadata for each sample, including (at minimum):
+- Geographic coordinates and locality description
+- Habitat and environmental context
+- Sampling date and collector
+- Preservation method
 
-- Linked to comprehensive metadata records.
-- Submitted, when possible, to public repositories (e.g., international nucleotide sequence databases), following FAIR data principles (Findable, Accessible, Interoperable, Reusable).
+## DNA extraction or sequencing
+Contributors may extract genomic DNA the provided guidelines, orPerform whole-genome sequencing locally using short- or long-read technologies.
 
-Quality control pipelines and documentation will be developed to ensure the reliability and reproducibility of the data.
+## Sample or data submission
+Ship silica-dried tissues or extracted DNA provided instructions, or share raw sequencing reads and associated metadata through the designated data-transfer platform.
+
+## Data integration and acknowledgment
+All contributions will be curated centrally, integrated into downstream analyses, and appropriately acknowledged through co-authorship or formal data citation, depending on the level of contribution.
+
+

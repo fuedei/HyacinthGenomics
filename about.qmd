@@ -1,4 +1,6 @@
-International Water Hyacinth Genomics Initiative ...
+International Water Hyacinth Genomics Initiative
+
+---
 
 ## Collaboration Model
 
@@ -18,5 +20,36 @@ Beyond initial data generation, the initiative aims to:
 -   Support training and capacity building, particularly in regions heavily affected by the invasion.
 -   Provide a model framework applicable to other invasive species.
 
+---
+
+# Methodological Framework
+
+## Sampling Strategy
+
+A coordinated sampling strategy will aim to cover:
+
+-   The native range of the species.
+-   Multiple invaded regions across continents.
+-   Diverse environmental and ecological conditions (multiple habitats).
+
+To ensure data comparability, contributors will be encouraged to follow standardized sampling and preservation protocols. They will also be provided with detailed guidelines for tissue collection, DNA extraction, and storage.
+
+## Genomic Data Generation
+
+The core genomic approach will be whole-genome sequencing (WGS) using either short- or long-read technologies. Depending on the available resources, the following sequencing strategies may be employed:
+
+-   Resequencing of multiple individuals across populations.
+-   Hybrid assemblies combining short and long reads.
+
+## Data Management and Curation
+
+All genomic data will be: - Stored in a centralized database with standardized formats.
+
+-   Linked to comprehensive metadata records.
+-   Submitted, when possible, to public repositories (e.g., international nucleotide sequence databases), following FAIR data principles (Findable, Accessible, Interoperable, Reusable).
+
+Quality control pipelines and documentation will be developed to ensure the reliability and reproducibility of the data.
+
+---
 
 ![](images/camalote_flor_acf.jpg){fig-align="center" width="30%"}

@@ -20,15 +20,11 @@ This **initiative aims to establish an open, international, and coordinated effo
 
 The initiative is an **open and collaborative framework designed to welcome contributions from researchers worldwide**. Participation may include:
 
-
 -   Providing plant tissue or DNA samples from well-documented populations.
 -   Contributing raw whole-genome sequencing data or assembled genomes.
 -   Sharing associated metadata, including geographic location, habitat type, sampling date, and ecological context.
 -   Participating in joint analyses, publications, and related activities.
 
-
-::: {.full-width}
-![](images/camalote_campo_acf_2.png){width=100%}
+::: full-width
+![](images/camalote_campo_acf_2.png){width="100%"}
 :::
-
-

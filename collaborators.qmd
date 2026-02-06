@@ -1,11 +1,21 @@
+
+# Institutions
+
+<div class="img-grid">
+  <img src="images/fuedei_logo.png" alt="">
+  <img src="images/Conicet_Logo_con_letras.png" alt="">
+  <img src="images/Aquatic_plant_science_FLREC.bmp" alt="">
+</div>
+
+
 # Collaborators
 
-- **Dr. Alejandro Sosa** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).
+-   **Dr. Alejandro Sosa** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).
 
-- **Dr. Andrés F .Sánchez Restrepo** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Universidad de Buenos Aires (UBA)
+-   **Dr. Andrés F .Sánchez Restrepo** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Universidad de Buenos Aires (UBA)
 
-- **Megan Reid, PhD** - University of Florida Fort Lauderdale Research and Education Center.
+-   **Megan Reid, PhD** - University of Florida Fort Lauderdale Research and Education Center.
 
-- **Melissa Smith, PhD** - Invasive Plant Research Laboratory (USDA).
+-   **Melissa Smith, PhD** - Invasive Plant Research Laboratory (USDA).
 
-- **Msc. Miguel A. Caicedo Baltodano** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).
+-   **Msc. Miguel A. Caicedo Baltodano** - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).

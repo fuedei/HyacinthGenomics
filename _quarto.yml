@@ -11,6 +11,8 @@ website:
         href: participate.qmd
       - text: "About the initiative"
         href: about.qmd
+      - text: "Guides"
+        href: guides.qmd
       - text: "Collaborators"
         href: collaborators.qmd
       - text: "Contact"
@@ -28,7 +30,7 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 
 execute:
   freeze: auto
