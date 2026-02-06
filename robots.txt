@@ -1,1 +1,1 @@
-Sitemap: https://fuedei.github.io/WHGI_website/sitemap.xml
+Sitemap: https://fuedei.github.io/HyacinthGenomics/sitemap.xml

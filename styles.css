@@ -1,1 +1,14 @@
 /* css styles */
+
+
+.img-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 4rem;              /* small gap */
+}
+
+.img-grid img {
+  width: 30%;
+  height: 70px;      /* fixed, same height */
+  object-fit: contain;
+}

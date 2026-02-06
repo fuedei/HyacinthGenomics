@@ -103,6 +103,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About the initiative</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./guides.html"> 
+<span class="menu-text">Guides</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="./collaborators.html" aria-current="page"> 
 <span class="menu-text">Collaborators</span></a>
   </li>  
@@ -126,7 +130,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#collaborators" id="toc-collaborators" class="nav-link active" data-scroll-target="#collaborators">Collaborators</a></li>
+  <li><a href="#institutions" id="toc-institutions" class="nav-link active" data-scroll-target="#institutions">Institutions</a></li>
+  <li><a href="#collaborators" id="toc-collaborators" class="nav-link" data-scroll-target="#collaborators">Collaborators</a></li>
   </ul>
 </nav>
     </div>
@@ -136,6 +141,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<section id="institutions" class="level1">
+<h1>Institutions</h1>
+<div class="img-grid">
+<p><img src="images/fuedei_logo.png" alt=""> <img src="images/Conicet_Logo_con_letras.png" alt=""> <img src="images/Aquatic_plant_science_FLREC.bmp" alt=""></p>
+</div>
+</section>
 <section id="collaborators" class="level1">
 <h1>Collaborators</h1>
 <ul>
@@ -223,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/fuedei\.github\.io\/WHGI_website\/");
+        var filterRegex = new RegExp("https:\/\/fuedei\.github\.io\/HyacinthGenomics\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

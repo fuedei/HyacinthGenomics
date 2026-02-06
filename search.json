@@ -1,38 +1,52 @@
 [
   {
-    "objectID": "participate.html",
-    "href": "participate.html",
-    "title": "Methodological Framework",
+    "objectID": "guides.html",
+    "href": "guides.html",
+    "title": "Guides and protocols",
     "section": "",
-    "text": "A coordinated sampling strategy will aim to cover:\n\nThe native range of the species.\nMultiple invaded regions across continents.\nDiverse environmental and ecological conditions (multiple habitats).\n\nTo ensure data comparability, contributors will be encouraged to follow standardized sampling and preservation protocols. They will also be provided with detailed guidelines for tissue collection, DNA extraction, and storage.\n\n\n\nThe core genomic approach will be whole-genome sequencing (WGS) using either short- or long-read technologies. Depending on the available resources, the following sequencing strategies may be employed:\n\nResequencing of multiple individuals across populations.\nHybrid assemblies combining short and long reads.\n\n\n\n\nAll genomic data will be: - Stored in a centralized database with standardized formats.\n\nLinked to comprehensive metadata records.\nSubmitted, when possible, to public repositories (e.g., international nucleotide sequence databases), following FAIR data principles (Findable, Accessible, Interoperable, Reusable).\n\nQuality control pipelines and documentation will be developed to ensure the reliability and reproducibility of the data."
+    "text": "Guides and protocols\nUnder construction…"
   },
   {
-    "objectID": "participate.html#sampling-strategy",
-    "href": "participate.html#sampling-strategy",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "Methodological Framework",
     "section": "",
-    "text": "A coordinated sampling strategy will aim to cover:\n\nThe native range of the species.\nMultiple invaded regions across continents.\nDiverse environmental and ecological conditions (multiple habitats).\n\nTo ensure data comparability, contributors will be encouraged to follow standardized sampling and preservation protocols. They will also be provided with detailed guidelines for tissue collection, DNA extraction, and storage."
+    "text": "International Water Hyacinth Genomics Initiative"
   },
   {
-    "objectID": "participate.html#genomic-data-generation",
-    "href": "participate.html#genomic-data-generation",
+    "objectID": "about.html#collaboration-model",
+    "href": "about.html#collaboration-model",
     "title": "Methodological Framework",
-    "section": "",
-    "text": "The core genomic approach will be whole-genome sequencing (WGS) using either short- or long-read technologies. Depending on the available resources, the following sequencing strategies may be employed:\n\nResequencing of multiple individuals across populations.\nHybrid assemblies combining short and long reads."
+    "section": "Collaboration Model",
+    "text": "Collaboration Model\nThis initiative is designed to be a distributed and inclusive consortium.\n\nAn open call for participation to research groups worldwide.\nClear guidelines on data ownership, authorship, and acknowledgment.\nOpportunities for co-authored publications and thematic working groups.\nRegular communication through virtual meetings, workshops, and shared online platforms.\n\nParticipation levels are flexible, enabling contributors to engage based on their resources and interests.\nBeyond initial data generation, the initiative aims to:\n\nServe as a “living genomic resource”, continuously expanded with new samples and data.\nIntegrate genomic information with ecological, climatic, and distributional data.\nSupport training and capacity building, particularly in regions heavily affected by the invasion.\nProvide a model framework applicable to other invasive species."
   },
   {
-    "objectID": "participate.html#data-management-and-curation",
-    "href": "participate.html#data-management-and-curation",
+    "objectID": "about.html#sampling-strategy",
+    "href": "about.html#sampling-strategy",
     "title": "Methodological Framework",
-    "section": "",
-    "text": "All genomic data will be: - Stored in a centralized database with standardized formats.\n\nLinked to comprehensive metadata records.\nSubmitted, when possible, to public repositories (e.g., international nucleotide sequence databases), following FAIR data principles (Findable, Accessible, Interoperable, Reusable).\n\nQuality control pipelines and documentation will be developed to ensure the reliability and reproducibility of the data."
+    "section": "Sampling Strategy",
+    "text": "Sampling Strategy\nA coordinated sampling strategy will aim to cover:\n\nThe native range of the species.\nMultiple invaded regions across continents.\nDiverse environmental and ecological conditions (multiple habitats).\n\nTo ensure data comparability, contributors will be encouraged to follow standardized sampling and preservation protocols. They will also be provided with detailed guidelines for tissue collection, DNA extraction, and storage."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "about.html#genomic-data-generation",
+    "href": "about.html#genomic-data-generation",
+    "title": "Methodological Framework",
+    "section": "Genomic Data Generation",
+    "text": "Genomic Data Generation\nThe core genomic approach will be whole-genome sequencing (WGS) using either short- or long-read technologies. Depending on the available resources, the following sequencing strategies may be employed:\n\nResequencing of multiple individuals across populations.\nHybrid assemblies combining short and long reads."
+  },
+  {
+    "objectID": "about.html#data-management-and-curation",
+    "href": "about.html#data-management-and-curation",
+    "title": "Methodological Framework",
+    "section": "Data Management and Curation",
+    "text": "Data Management and Curation\nAll genomic data will be: - Stored in a centralized database with standardized formats.\n\nLinked to comprehensive metadata records.\nSubmitted, when possible, to public repositories (e.g., international nucleotide sequence databases), following FAIR data principles (Findable, Accessible, Interoperable, Reusable).\n\nQuality control pipelines and documentation will be developed to ensure the reliability and reproducibility of the data."
+  },
+  {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Institutions",
     "section": "",
-    "text": "If you’d like to get in touch, feel free to reach us through any of the channels below.\n\n\n📧 Email\nmail@example.com"
+    "text": "Institutions\n\n  \n\n\n\nCollaborators\n\nDr. Alejandro Sosa - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).\nDr. Andrés F .Sánchez Restrepo - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Universidad de Buenos Aires (UBA)\nMegan Reid, PhD - University of Florida Fort Lauderdale Research and Education Center.\nMelissa Smith, PhD - Invasive Plant Research Laboratory (USDA).\nMsc. Miguel A. Caicedo Baltodano - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)."
   },
   {
     "objectID": "index.html#objectives",
@@ -49,24 +63,59 @@
     "text": "Scope of the Initiative\nThe initiative is an open and collaborative framework designed to welcome contributions from researchers worldwide. Participation may include:\n\nProviding plant tissue or DNA samples from well-documented populations.\nContributing raw whole-genome sequencing data or assembled genomes.\nSharing associated metadata, including geographic location, habitat type, sampling date, and ecological context.\nParticipating in joint analyses, publications, and related activities."
   },
   {
-    "objectID": "collaborators.html",
-    "href": "collaborators.html",
-    "title": "Collaborators",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Collaborators\n\nDr. Alejandro Sosa - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).\nDr. Andrés F .Sánchez Restrepo - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Universidad de Buenos Aires (UBA)\nMegan Reid, PhD - University of Florida Fort Lauderdale Research and Education Center.\nMelissa Smith, PhD - Invasive Plant Research Laboratory (USDA).\nMsc. Miguel A. Caicedo Baltodano - Fundación para el Estudio de Especies Invasivas (FuEDEI) & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)."
+    "text": "If you’d like to get in touch, feel free to reach us through any of the channels below.\n\n\n📧 Email\nmail@example.com"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "IWHGI",
+    "objectID": "participate.html",
+    "href": "participate.html",
+    "title": "Participation and Data Contribution",
     "section": "",
-    "text": "International Water Hyacinth Genomics Initiative …"
+    "text": "To achieve broad geographic and ecological coverage, this project invites researchers to contribute plant tissue samples, extracted DNA, and/or whole-genome sequencing data. The project is designed to be flexible, allowing contributors to participate according to their available resources while adhering to shared standards that ensure data comparability and reproducibility.\nContributors may participate by:\n\nsending plant tissues preserved in silica gel,\nsending extracted genomic DNA, and/or\nsharing whole-genome sequencing data generated independently."
   },
   {
-    "objectID": "about.html#collaboration-model",
-    "href": "about.html#collaboration-model",
-    "title": "IWHGI",
-    "section": "Collaboration Model",
-    "text": "Collaboration Model\nThis initiative is designed to be a distributed and inclusive consortium.\n\nAn open call for participation to research groups worldwide.\nClear guidelines on data ownership, authorship, and acknowledgment.\nOpportunities for co-authored publications and thematic working groups.\nRegular communication through virtual meetings, workshops, and shared online platforms.\n\nParticipation levels are flexible, enabling contributors to engage based on their resources and interests.\nBeyond initial data generation, the initiative aims to:\n\nServe as a “living genomic resource”, continuously expanded with new samples and data.\nIntegrate genomic information with ecological, climatic, and distributional data.\nSupport training and capacity building, particularly in regions heavily affected by the invasion.\nProvide a model framework applicable to other invasive species."
+    "objectID": "participate.html#initial-contact",
+    "href": "participate.html#initial-contact",
+    "title": "Participation and Data Contribution",
+    "section": "Initial contact",
+    "text": "Initial contact\nContact the coordinating team to express interest and indicate the type of contribution (plant tissue, DNA, and/or genomic data)."
+  },
+  {
+    "objectID": "participate.html#sampling-and-preservation",
+    "href": "participate.html#sampling-and-preservation",
+    "title": "Participation and Data Contribution",
+    "section": "Sampling and preservation",
+    "text": "Sampling and preservation\n\nCollect young, healthy leaf tissue when possible.\nPreserve tissue immediately in silica gel until fully desiccated.\nClearly label each sample with a unique identifier."
+  },
+  {
+    "objectID": "participate.html#metadata-recording",
+    "href": "participate.html#metadata-recording",
+    "title": "Participation and Data Contribution",
+    "section": "Metadata recording",
+    "text": "Metadata recording\nRecord standardized metadata for each sample, including (at minimum): - Geographic coordinates and locality description - Habitat and environmental context - Sampling date and collector - Preservation method"
+  },
+  {
+    "objectID": "participate.html#dna-extraction-or-sequencing",
+    "href": "participate.html#dna-extraction-or-sequencing",
+    "title": "Participation and Data Contribution",
+    "section": "DNA extraction or sequencing",
+    "text": "DNA extraction or sequencing\nContributors may extract genomic DNA the provided guidelines, orPerform whole-genome sequencing locally using short- or long-read technologies."
+  },
+  {
+    "objectID": "participate.html#sample-or-data-submission",
+    "href": "participate.html#sample-or-data-submission",
+    "title": "Participation and Data Contribution",
+    "section": "Sample or data submission",
+    "text": "Sample or data submission\nShip silica-dried tissues or extracted DNA provided instructions, or share raw sequencing reads and associated metadata through the designated data-transfer platform."
+  },
+  {
+    "objectID": "participate.html#data-integration-and-acknowledgment",
+    "href": "participate.html#data-integration-and-acknowledgment",
+    "title": "Participation and Data Contribution",
+    "section": "Data integration and acknowledgment",
+    "text": "Data integration and acknowledgment\nAll contributions will be curated centrally, integrated into downstream analyses, and appropriately acknowledged through co-authorship or formal data citation, depending on the level of contribution."
   }
 ]
