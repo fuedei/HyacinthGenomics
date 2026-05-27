@@ -64,7 +64,7 @@ This protocol has been specifically tested and validated in our laboratory for w
 
 **Starting Material & Pre-treatment:**
 
-- Always start with silica-gel dried plant tissue.
+- Start with silica-gel dried plant tissue.
 - **Crucial step:** Just prior to disruption, freeze the tissue using liquid nitrogen. If liquid nitrogen is unavailable, place the tissue in a -20°C or -80°C freezer overnight (or according to standard DNA preservation protocols).
 
 **Preparation and Homogenization:**
