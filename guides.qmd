@@ -59,7 +59,7 @@ Please record the data using these exact fields:
 
 ## 🧬 2. DNA Extraction
 
-### DNeasy® Plant Pro Kit (QIAGEN) - Optimized for *P. crassipes*
+### DNeasy® Plant Pro Kit (QIAGEN)
 This protocol has been specifically tested and validated in our laboratory for water hyacinth. While the specific brand or model of the disruption equipment is flexible, the reagent modifications and vortexing parameters are crucial due to the plant's high phytochemical content.
 
 **Starting Material & Pre-treatment:**
