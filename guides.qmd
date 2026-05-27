@@ -63,15 +63,18 @@ Please record the data using these exact fields:
 This protocol has been specifically tested and validated in our laboratory for water hyacinth. While the specific brand or model of the disruption equipment is flexible, the reagent modifications and vortexing parameters are crucial due to the plant's high phytochemical content.
 
 **Starting Material & Pre-treatment:**
+
 - Always start with silica-gel dried plant tissue.
 - **Crucial step:** Just prior to disruption, freeze the tissue using liquid nitrogen. If liquid nitrogen is unavailable, place the tissue in a -20°C or -80°C freezer overnight (or according to standard DNA preservation protocols).
 
 **Preparation and Homogenization:**
+
 1. Transfer the frozen tissue to your disruption tubes.
 2. **Lysis Buffer:** Add the lysis buffer. *(Note: The standard QIAGEN protocol uses 500 µl of Solution CD1. However, because P. crassipes is high in phenolic compounds, our in-house validated method requires adding **450 µl of Solution CD1 and 50 µl of Solution PS**).*
 3. **Homogenization:** You may use any available disruption equipment in your laboratory (e.g., any brand of vortex with an adapter, bead beater, or tissue homogenizer). However, you must follow the established parameters to ensure complete pulverization: **Vortex at maximum speed (between 10–15) for 3 to 5 minutes**.
 
 **Extraction Steps:**
+
 4. Centrifuge the disruption tubes at 12,000 x g for 2 min.
 5. Transfer the supernatant to a clean 1.5 ml tube.
 6. Add 200 µl of Solution CD2 and vortex for 5 s.
@@ -91,9 +94,11 @@ Collaborators may use any spectrophotometer or fluorometer available in their fa
 
 ### Quality Assessment: Spectrophotometry (e.g., NanoDrop)
 Spectrophotometers measure absorbance and are highly susceptible to interference from phytochemicals, carbohydrates, and phenols common in water hyacinth. Therefore, this method should be used **strictly to assess DNA quality**, not absolute quantity.
+
 * **A260/280 Ratio (Protein contamination):** The accepted range for pure DNA is **~1.8 to 2.0**.
 * **A260/230 Ratio (Carbohydrate/Phenol contamination):** The ideal accepted range is **1.8 – 2.2**. In plants with high secondary metabolites, this value is often lower, but values significantly < 1.5 indicate contamination that may inhibit downstream PCR or NGS applications (Desjardins et al., 2009).
 
 ### Quantity Assessment: Fluorometry (e.g., Qubit, DeNovix FX)
 For accurate yield determination, fluorometric methods are required. Fluorometers use intercalating dyes that bind specifically to double-stranded DNA (dsDNA), bypassing the absorbance interference caused by plant secondary metabolites. 
+
 * Always report the final DNA concentration (ng/µl) based on **fluorometric readings** to ensure an accurate input calculation for genomic sequencing.
