@@ -19,7 +19,7 @@ For optimal DNA preservation, tissue must be dried using silica gel immediately 
 4. Allow to dry completely (the tissue should become brittle and snap when bent).
 
 ### Herborization and Voucher Specimens
-A voucher specimen of each collected plant **must** be deposited in a recognized local herbarium. Additionally, high-quality photographs of the plant in its habitat and the pressed specimen must be archived by the collaborator.
+A voucher specimen of each collected plant must be deposited in a recognized local herbarium. Additionally, high-quality photographs of the plant in its habitat and the pressed specimen must be archived by the collaborator.
 
 ![A mounted *Pontederia crassipes* specimen serving as an example of proper herborization. Taken from GBIF.org. Complete reference: Teisher J, Stimmel H (2026). Tropicos MO Specimen Data. Missouri Botanical Garden. Occurrence dataset https://doi.org/10.15468/hja69f accessed via GBIF.org on 2026-05-27. https://www.gbif.org/occurrence/1259541625](images/gbif_specimen.jpg){fig-align="center" width="40%"}
 
@@ -32,7 +32,7 @@ Follow the specific herbarium protocols of your local institution. If no specifi
 * Place the cardstock with the plant inside the pressing paper (newspaper/blotters) and proceed with standard drying methods.
 
 ### Mandatory Sample Metadata
-Regardless of the specific label requirements of the local herbarium for the voucher specimen, all collaborators **must** record and retain the following metadata for every collected sample. This information is critical for our global database. 
+Regardless of the specific label requirements of the local herbarium for the voucher specimen, all collaborators must record and retain the following metadata for every collected sample. This information is critical for our global database. 
 
 Please record the data using these exact fields:
 
@@ -64,13 +64,13 @@ This protocol has been specifically tested and validated in our laboratory for w
 
 **Starting Material & Pre-treatment:**
 
-- Start with silica-gel dried plant tissue.
+- Always start with silica-gel dried plant tissue.
 - **Crucial step:** Just prior to disruption, freeze the tissue using liquid nitrogen. If liquid nitrogen is unavailable, place the tissue in a -20°C or -80°C freezer overnight (or according to standard DNA preservation protocols).
 
 **Preparation and Homogenization:**
 
 1. Transfer the frozen tissue to your disruption tubes.
-2. **Lysis Buffer:** Add the lysis buffer. *(Note: The standard QIAGEN protocol uses 500 µl of Solution CD1. However, because P. crassipes is high in phenolic compounds, our in-house validated method requires adding **450 µl of Solution CD1 and 50 µl of Solution PS**).*
+2. **Lysis Buffer:** Add 5–100 mg of tissue to a 2 ml tissue disruption tube. Due to the high phenolic content of *P. crassipes*, **do not** use the standard CD1 volume. Instead, add **450 µl of Solution CD1 and 50 µl of Solution PS**. Vortex briefly to mix.
 3. **Homogenization:** You may use any available disruption equipment in your laboratory (e.g., any brand of vortex with an adapter, bead beater, or tissue homogenizer). However, you must follow the established parameters to ensure complete pulverization: **Vortex at maximum speed (between 10–15) for 3 to 5 minutes**.
 
 **Extraction Steps:**
@@ -101,4 +101,4 @@ Spectrophotometers measure absorbance and are highly susceptible to interference
 ### Quantity Assessment: Fluorometry (e.g., Qubit, DeNovix FX)
 For accurate yield determination, fluorometric methods are required. Fluorometers use intercalating dyes that bind specifically to double-stranded DNA (dsDNA), bypassing the absorbance interference caused by plant secondary metabolites. 
 
-* Always report the final DNA concentration (ng/µl) based on **fluorometric readings** to ensure an accurate input calculation for genomic sequencing.
+* Always report the final DNA concentration (ng/µl) based on **fluorometric readings** to ensure an accurate input calculation for genomic sequencing (a minimum of 8 ng/µl is required, or the specific threshold established by your sequencing facility).
