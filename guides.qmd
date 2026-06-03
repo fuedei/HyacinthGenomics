@@ -101,4 +101,16 @@ Spectrophotometers measure absorbance and are highly susceptible to interference
 ### Quantity Assessment: Fluorometry (e.g., Qubit, DeNovix FX)
 For accurate yield determination, fluorometric methods are required. Fluorometers use intercalating dyes that bind specifically to double-stranded DNA (dsDNA), bypassing the absorbance interference caused by plant secondary metabolites. 
 
-* Always report the final DNA concentration (ng/µl) based on **fluorometric readings** to ensure an accurate input calculation for genomic sequencing (a minimum of 8 ng/µl is required, or the specific threshold established by your sequencing facility).
+* Always report the final DNA concentration (ng/µl) based on **fluorometric readings** to ensure an accurate input calculation for genomic sequencing.
+
+---
+
+## 🧬 4. Genomic Sequencing Guidelines
+
+Collaborators are free to use any sequencing facility of their choice and should adhere strictly to the submission parameters established by their selected provider. We strongly recommend aiming for the **highest sequencing depth possible**, depending on the budget available to the collaborator or their host laboratory.
+
+If your facility does not provide specific guidelines, please use the following baseline requirements as a standard reference for DNA sample submission:
+
+* **Total Amount & Quality:** At least 100 ng of high molecular weight (>20 kb) genomic DNA, treated with RNase.
+* **Target Concentration:** Diluted to ~5.0–10.0 ng/µl. (Concentrations generally accepted range from a preferred minimum of 0.5 ng/µl to a maximum of 25 ng/µl).
+* **Quantification Method:** Samples must be quantified using Qubit, PicoGreen, or another fluorometric assay to ensure accurate results.
