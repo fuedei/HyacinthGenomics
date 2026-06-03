@@ -26,9 +26,9 @@ Our work is empowered by an international network of researchers and institution
 ### Collaborator List
 
 - **Lynley Hayes** - Landcare Research, New Zealand.
-- **Ben Gooden** - CSIRO Health & Biosecurity, Australia.
+- **Ben Gooden - Kumaran Nagalingam - Alexander Schmidt-Lebuhn** - CSIRO Health & Biosecurity, Australia.
 - **Tahina Ernest Rajaonera** - University of Antananarivo, Madagascar.
-- **Hélia Marchante** - CERNAS / ESAC, Portugal.
+- **Hélia Marchante - Vitor Carvalho** - CERNAS / ESAC, Portugal.
 - **Nathan Harms** - US Army Engineer Research and Development Center / USACE, USA.
 - **Angélica Alejandra Palma Araúz** - Universidad Nacional de Colombia & Universidad de Panamá.
 - **Diana Carolina López Álvarez** - National University of Colombia (UNAL), Colombia.
